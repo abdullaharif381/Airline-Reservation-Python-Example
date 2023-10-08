@@ -51,7 +51,7 @@ Here's an example of how to use the program:
 
 ## Screenshots
 
-![Alt Text](my-image.png)
+![Alt Text](seating-matplotlib.png)
 
 ## Dependencies
 
